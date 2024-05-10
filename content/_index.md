@@ -9,8 +9,8 @@ header_use_video: false
 #header_logo: "images/chef-hat.png"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
-header_headline: "SQL Start!"
-header_subheadline: "sta arrivando... venerdì 14 giugno 2024<br />Università Politecnica delle Marche - Ancona"
+header_headline: "SQL Start! 2024"
+header_subheadline: "sta arrivando... venerdì 14 giugno<br />Università Politecnica delle Marche - Ancona"
 
 # Add a 'Go back to top' item to the navigation menu
 # Title: name of navigation menu entry
