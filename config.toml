@@ -12,11 +12,11 @@ relativeURLs = "true"
 #canonifyURLs = "true"
 
 # Development
-baseURL = "/"
+#baseURL = "/"
 #publishDir = "public"
 
 # Production
-#baseURL = "https://brave-sea-012cc0603.5.azurestaticapps.net"
+baseURL = "https://brave-sea-012cc0603.5.azurestaticapps.net"
 #publishDir = "public"
 
 ## -----------------------------------------------
