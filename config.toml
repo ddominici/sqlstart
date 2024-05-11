@@ -1,16 +1,39 @@
-baseURL = "https://sqlstart.it"
+## -----------------------------------------------
+## Basic Configuration
+## -----------------------------------------------
+
+theme = "hugo-scroll"
+
+## -----------------------------------------------
+## Publish
+## -----------------------------------------------
+
+relativeURLs = "true"
+#canonifyURLs = "true"
+
+# Development
+baseURL = "/"
+#publishDir = "public"
+
+# Production
+#baseURL = "https://brave-sea-012cc0603.5.azurestaticapps.net"
+#publishDir = "public"
+
+## -----------------------------------------------
+## Hugo Built-in Features
+## -----------------------------------------------
 
 # This is a "one page"-website, so we do not need these kinds of pages...
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
+
+## -----------------------------------------------
+## Site parameters
+## -----------------------------------------------
 
 languageCode = "en-us"
 
 defaultContentLanguage = "en"
 
-# The name of this wonderful theme ;-).
-theme = "hugo-scroll"
-
-# The browser tab name
 title = "SQL Start! 2024"
 
 # In order to add version information in the page's footer set to true.
