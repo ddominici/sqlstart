@@ -3,7 +3,7 @@ title: "Benvenuti"
 weight: 1
 ---
 
-`SQL Start! 2024` è un evento per i professionisti che lavorano con i dati per acquisire nuove conoscenze ed incontrare colleghi ed i principali esperti del settore.
+`SQL Start! 2024` è un evento per i professionisti che lavorano con i dati per acquisire nuove conoscenze ed incontrare colleghi ed esperti del settore.
 
 SQL Start! è nata nel 2011 da un gruppo di appassionati di SQL Server il cui scopo era ed è ancora, quello di mettere a disposizione la migliore formazione possibile in modo gratuito al maggior numero di persone possibile.
 
@@ -16,5 +16,7 @@ Quest'anno abbiamo ben quattro sale per complessive 20 ore di formazione, con ar
 E ovviamente non potranno mancare sessioni sulla Generative AI e su come sfruttarla al meglio in ambito dati.
 
 L'ingresso a SQL Start! è libero a chiunque voglia partecipare, ma attenzione... se l'ingresso è gratuito, la registrazione è obbligatoria! 🙂
+
+---
 
 > Imparare è come remare controcorrente: se smetti, torni indietro. --- proverbio cinese
