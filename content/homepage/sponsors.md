@@ -30,9 +30,9 @@ header_menu: true
     <th>Partners</th>
 </tr>
 <tr>
-    <td><a href=""><img src="images/logo_univpm.gif" alt="Università Politecnica delle Marche" height="120px" ></a></td>
-    <td><a href=""><img src="images/logo_devmarche.jpg" alt="DevMarche" height="100px"></a></td>
-    <td><a href=""><img src="images/logo_ugiss.jpg" alt="UGISS"></a></td>
+    <td><a href="https://www.univpm.it"><img src="images/logo_univpm.gif" alt="Università Politecnica delle Marche" height="120px" ></a></td>
+    <td><a href="https://dev.marche.it"><img src="images/logo_devmarche.jpg" alt="DevMarche" height="100px"></a></td>
+    <td><a href="https://www.ugiss.org"><img src="images/logo_ugiss.jpg" alt="UGISS"></a></td>
 </tr>
 </table>
 
