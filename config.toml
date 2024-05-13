@@ -16,7 +16,7 @@ relativeURLs = "true"
 #publishDir = "public"
 
 # Production
-baseURL = "https://brave-sea-012cc0603.5.azurestaticapps.net"
+baseURL = "https://www.sqlstart.it"
 #publishDir = "public"
 
 ## -----------------------------------------------
