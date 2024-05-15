@@ -10,9 +10,10 @@ header_menu: true
 <tr>
     <th>Gold Sponsors</th>
 </tr>
-<tr>
-    <td><a href="https://www.apra.it"><img src="images/logo_apra.png" alt="Apra" height="120"></a></td>
-    <td><a href="https://www.bifactory.it"><img src="images/logo_bifactory.png" alt="BI Factory"  height="120"</a></td>
+<tr style="align:center">
+    <td><a href="https://www.apra.it"><img src="images/logo_apra_v.png" alt="Apra" height="140"></a></td>
+    <td><a href="https://www.bifactory.it"><img src="images/logo_bifactory.png" alt="BI Factory"  height="140"</a></td>
+    <td><a href="https://www.logicalsystem.it"><img src="images/logo_logicalsystem.png" alt="Logical System part of Lodestar"  height="140"</a></td>
 </tr>
 </table>
 
@@ -30,8 +31,8 @@ header_menu: true
     <th>Partners</th>
 </tr>
 <tr>
-    <td><a href="https://www.univpm.it"><img src="images/logo_univpm.gif" alt="Università Politecnica delle Marche" height="120px" ></a></td>
-    <td><a href="https://dev.marche.it"><img src="images/logo_devmarche.jpg" alt="DevMarche" height="100px"></a></td>
+    <td><a href="https://www.univpm.it"><img src="images/logo_univpm.gif" alt="Università Politecnica delle Marche" height="110px" ></a></td>
+    <td><a href="https://dev.marche.it"><img src="images/logo_devmarche.png" alt="DevMarche" height="50px"></a></td>
     <td><a href="https://www.ugiss.org"><img src="images/logo_ugiss.jpg" alt="UGISS"></a></td>
 </tr>
 </table>
