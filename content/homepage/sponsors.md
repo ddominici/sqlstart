@@ -32,7 +32,7 @@ header_menu: true
 </tr>
 <tr>
     <td><a href="https://www.univpm.it"><img src="images/logo_univpm.gif" alt="Università Politecnica delle Marche" height="110px" ></a></td>
-    <td><a href="https://dev.marche.it"><img src="images/logo_devmarche.png" alt="DevMarche" height="50px"></a></td>
+    <td><a href="https://dev.marche.it"><img src="images/logo_DevMarche.png" alt="DevMarche" height="50px"></a></td>
     <td><a href="https://www.ugiss.org"><img src="images/logo_ugiss.jpg" alt="UGISS"></a></td>
 </tr>
 </table>
