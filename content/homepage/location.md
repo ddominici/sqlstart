@@ -7,6 +7,8 @@ La sede dell'evento è la Facoltà di Ingegneria dell'Università Politecnica de
 
 L'ingresso principale è situato in Via Brecce Bianche 12.
 
+![Mappa](/images/ComeArrivare.png)
+
 
 #### Come arrivare
 
